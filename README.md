@@ -1,12 +1,28 @@
-- 👋 Hi, I’m @DucsPhaam
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-DucsPhaam/DucsPhaam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introduce</title>
+</head>
+<body>
+    <h1>About me</h1>
+    <hr>
+    <p>Just a developer, I like watching anime, reading manga</p>
+    <br><br><br>
+    <h1>My Skills</h1>
+    <hr>
+    <ul>
+        <li>C</li>
+        <li>C++</li>
+        <li>Java</li>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <li>Python</li>
+        <li>PHP</li>
+        <li>SQL</li>
+        <li>Github</li>
+    </ul>
+</body>
+</html>
