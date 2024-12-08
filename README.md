@@ -1,27 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
-    <h1>About me</h1>
-    <hr>
-    <p>Just a developer, I like watching anime, reading manga</p>
-    <br><br><br>
-    <h1>My Skills</h1>
-    <hr>
-    <ul>
-        <li>C</li>
-        <li>C++</li>
-        <li>Java</li>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>JavaScript</li>
-        <li>Python</li>
-        <li>PHP</li>
-        <li>SQL</li>
-        <li>Github</li>
-    </ul>
+    <main class="main_img">
+        <div class="main_text">WE ARE LEARNING</div>
+    </main>
+    <section class="section1">
+        <div class="container_section1">
+            <p class="welcome">Welcome to my website!</p>
+        </div>
+    </section>
+    <footer>
+        <nav class="footer_nav_link">
+            <ul>
+                <li><a href="https://www.facebook.com/cerfx/"><img src="img/facebook-brands-solid.svg" alt=""></a></li>
+                <li><a href="https://github.com/DucsPhaam/"><img src="img/github-brands-solid.svg" alt=""></a></li>
+                <li><a href="https://www.tiktok.com/@cerr.contact"><img src="img/tiktok-brands-solid.svg" alt=""></a></li>
+                <li><a href="https://www.youtube.com/@DucsPhBoss"><img src="img/youtube-brands-solid.svg" alt=""></a></li>
+            </ul>
+        </nav>
+        <div class="copyright">&copy; 2024 Pham Anh Duc, All rights reserved.</div>
+    </footer>
 </body>
+
 </html>
