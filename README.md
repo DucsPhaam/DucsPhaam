@@ -1,5 +1,6 @@
 # 💫 About Me:
 I'm currently learning<br>
+I wanna be a game developer<br>
 
 
 ## 🌐 Socials:
@@ -19,6 +20,3 @@ I'm currently learning<br>
 ![](https://github-contributor-stats.vercel.app/api?username=DucsPhaam&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DucsPhaam&icon=5&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
