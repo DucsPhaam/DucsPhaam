@@ -4,9 +4,9 @@
 ---
 
 ### 💫 About Me
-🌱 I'm currently working as a **Full-Stack & Mobile Developer** at **PLPGROUP CO., LTD** and as a **Frontend Developer** at **MINDALIFE ACADEMY CO., LTD**.  
+🌱 I'm a passionate developer currently providing **Full-Stack & Mobile Development** services for PLPGROUP CO., LTD and handling **all frontend development** for MINDALIFE ACADEMY CO., LTD.  
 
-In addition to client projects, I'm also actively learning **Game Development** and building personal open-source projects.
+In parallel, I'm actively learning **Game Development** and building personal open-source projects on the side.  
 
 🎯 Passionate about building **interactive systems**, **scalable web applications**, and **beautiful user experiences**.  
 ☕ I believe great code (and great games) are powered by great coffee and lo-fi beats.
@@ -21,7 +21,6 @@ In addition to client projects, I'm also actively learning **Game Development** 
 ---
 
 ### 🧰 Tech Stack
-
 #### 🖥️ Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -70,7 +69,6 @@ In addition to client projects, I'm also actively learning **Game Development** 
 ---
 
 ### 📊 GitHub Stats
-
 ![](https://github-readme-stats.vercel.app/api?username=DucsPhaam&theme=tokyonight&hide_border=true&show_icons=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DucsPhaam&theme=tokyonight&hide_border=true&layout=compact&hide=Jupyter+Notebook)
 ![](https://streak-stats.demolab.com/?user=DucsPhaam&theme=tokyonight&hide_border=true)
