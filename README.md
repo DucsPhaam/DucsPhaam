@@ -4,7 +4,10 @@
 ---
 
 ### 💫 About Me
-🌱 Currently working as a **Full-Stack/Mobile Developer** at **PLPGROUP CO., LTD**, while also learning **Game Development** and building personal projects.  
+🌱 I'm currently working as a **Full-Stack & Mobile Developer** at **PLPGROUP CO., LTD** and as a **Frontend Developer** at **MINDALIFE ACADEMY CO., LTD**.  
+
+In addition to client projects, I'm also actively learning **Game Development** and building personal open-source projects.
+
 🎯 Passionate about building **interactive systems**, **scalable web applications**, and **beautiful user experiences**.  
 ☕ I believe great code (and great games) are powered by great coffee and lo-fi beats.
 
@@ -57,6 +60,12 @@
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+**💼 Current Client Projects**
+- **PLPGROUP CO., LTD** — Full-Stack & Mobile Development
+- **MINDALIFE ACADEMY CO., LTD** — Frontend Development
 
 ---
 
