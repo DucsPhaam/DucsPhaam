@@ -4,7 +4,7 @@
 ---
 
 ### 💫 About Me
-🌱 I'm a passionate developer currently providing **Full-Stack & Mobile Development** services for PLPGROUP CO., LTD and handling **all frontend development** for MINDALIFE ACADEMY CO., LTD.  
+🌱 I'm a passionate developer currently providing **Full-Stack / Mobile Development** services for PLPGROUP CO., LTD and handling **all frontend development** for MINDALIFE ACADEMY CO., LTD.  
 
 In parallel, I'm actively learning **Game Development** and building personal open-source projects on the side.  
 
@@ -64,7 +64,7 @@ In parallel, I'm actively learning **Game Development** and building personal op
 
 **💼 Current Client Projects**
 - **PLPGROUP CO., LTD** — Full-Stack & Mobile Development
-- **MINDALIFE ACADEMY CO., LTD** — Frontend Development
+- **MINDALIFE ACADEMY CO., LTD** — Full-Stack Development
 
 ---
 
