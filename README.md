@@ -1,27 +1,55 @@
-<h1 align="center">👋 Hi there, I'm <a href="https://facebook.com/ducsphaam" target="_blank">DucsPhaam</a>!</h1>
-<h3 align="center">🌟 Aspiring Game Engineer | 🎮 Full-Stack Developer | 💻 From Hanoi, Vietnam</h3>
+<h1 align="center">👋 Hi there, I'm <a href="https://facebook.com/ducsphaam">DucsPhaam</a>!</h1>
+<h3 align="center">Software Engineer | Full-Stack Developer | Aspiring Game Engineer</h3>
+
+<p align="center">
+  📍 Hanoi, Vietnam
+</p>
 
 ---
 
 ### 💫 About Me
-🌱 I'm a passionate developer currently providing **Full-Stack / Mobile Development** services for PLPGROUP CO., LTD and handling **all frontend development** for MINDALIFE ACADEMY CO., LTD.  
 
-In parallel, I'm actively learning **Game Development** and building personal open-source projects on the side.  
+I'm a **Software Developer at PLPGROUP CO., LTD**, working across **Frontend, Backend, and Mobile App Development**.
 
-🎯 Passionate about building **interactive systems**, **scalable web applications**, and **beautiful user experiences**.  
-☕ I believe great code (and great games) are powered by great coffee and lo-fi beats.
+I'm passionate about building software systems and solving engineering problems, with interests extending into **system architecture, game development, and interactive experiences**.
+
+I'm constantly learning, experimenting, and building projects to strengthen my engineering skills.
+
+- 💻 Working across **Frontend, Backend & Mobile Development**
+- 🏗️ Interested in **System Design, Software Architecture & Scalable Systems**
+- 🎮 Exploring **Game Development with Unity**
+- 🚀 Building independent projects and experimenting with new technologies
+- ☕ Coffee, lo-fi music, and late-night debugging.
 
 ---
 
 ### 🌐 Connect With Me
+
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/szbfAF3EAJ)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ducsphaam)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ducsphaam)
 
 ---
 
+### 🚀 Featured Projects
+
+#### 🎮 Lullaby Paradox
+
+**Independent Game Development · In Progress**
+
+A first-person psychological horror game with anime-inspired visuals, narrative-driven gameplay, and multiple endings.
+
+- Engine: Unity
+- Platform: PC (Steam)
+- Genre: Psychological Horror / Survival
+- Development: Solo Developer + AI-assisted workflow
+
+---
+
 ### 🧰 Tech Stack
+
 #### 🖥️ Programming Languages
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -32,29 +60,34 @@ In parallel, I'm actively learning **Game Development** and building personal op
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 #### 🎮 Game Development
+
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
 
-#### 🌐 Frontend & Fullstack
+#### 🌐 Frontend
+
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-#### ⚙️ Backend & Server
+#### ⚙️ Backend
+
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 
 #### 🗄️ Database & Caching
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 #### 🛠️ Tools & DevOps
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -62,23 +95,41 @@ In parallel, I'm actively learning **Game Development** and building personal op
 
 ---
 
-**💼 Current Client Projects**
-- **PLPGROUP CO., LTD** — Full-Stack & Mobile Development
-- **MINDALIFE ACADEMY CO., LTD** — Full-Stack Development
+### 🎯 Current Focus
+
+- **Full-Stack & Mobile Development:** Building and maintaining features across frontend, backend, and mobile applications.
+- **Software Engineering:** Writing maintainable code and understanding system architecture.
+- **System Design:** Learning to design reliable, scalable, and distributed systems.
+- **Game Development:** Building independent games and exploring gameplay programming.
+- **Continuous Learning:** Improving problem-solving, engineering fundamentals, and technical English.
 
 ---
 
-### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=DucsPhaam&theme=tokyonight&hide_border=true&show_icons=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DucsPhaam&theme=tokyonight&hide_border=true&layout=compact&hide=Jupyter+Notebook)
-![](https://streak-stats.demolab.com/?user=DucsPhaam&theme=tokyonight&hide_border=true)
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DucsPhaam&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DucsPhaam&theme=tokyonight&hide_border=true&layout=compact&hide=Jupyter+Notebook" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=DucsPhaam&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ### 🧠 Fun Fact
-🎮 I debug better with **lo-fi music and iced coffee**.  
-🔥 “Code like you’re in overtime.”
+
+🎮 I debug better with lo-fi music and iced coffee.
+
+🔥 "Code like you're in overtime."
 
 ---
 
-*Hanoi, Vietnam • UTC+07:00*
+<p align="center">
+  <i>Building things, breaking things, and learning along the way.</i>
+</p>
+
+<p align="center">
+  Hanoi, Vietnam • UTC+07:00
+</p>
